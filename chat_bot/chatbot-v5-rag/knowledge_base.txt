@@ -1,0 +1,9 @@
+Python is a high-level programming language used for software development, automation, data analysis, artificial intelligence, and machine learning.
+
+Machine Learning is a field of artificial intelligence where computers learn patterns from data and make predictions.
+
+A chatbot is a software application that can communicate with users through text or voice.
+
+RAG means Retrieval-Augmented Generation. It allows a chatbot to search a knowledge base first and then generate an answer using the retrieved information.
+
+Gemini is a large language model developed by Google that can generate text, answer questions, and help with coding tasks.
